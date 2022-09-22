@@ -10,4 +10,4 @@ import scala.annotation.tailrec
     else fibonacci(a,b,n-2)
   }
   // n -> nth term of the sequence
-  println(calculate_fibonacci(1,1,30))
+  println(calculate_fibonacci(1,1,30)) // prints 832040 
