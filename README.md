@@ -4,3 +4,4 @@ Functional Programming Examples written in Scala
 
 # List of Algorithms:
 1) [Fibonacci Sequence](https://github.com/abhishek-1309/scala_fp_examples/tree/main/src)
+2) [Checking Prime Number](https://github.com/abhishek-1309/scala_fp_examples/tree/main/src)
